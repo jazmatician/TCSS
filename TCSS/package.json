@@ -1,0 +1,13 @@
+{
+  "name": "TCSS",
+  "version": "0.0.0",
+  "description": "TCSS",
+  "main": "app.js",
+  "author": {
+    "name": "mblackburn",
+    "email": ""
+  },
+  "dependencies": {
+    "twit": "~1.1.20"
+  }
+}
